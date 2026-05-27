@@ -1,1 +1,1 @@
-이 원격리포지토리는 2026년 1학기 클라우드 서비스 수업에서 깃/깃허브 연습용으로 활용될 것이다
+This remote repository is a temporary repository for Git/GitHub practice in the Spring 2026 Cloud Services course.
